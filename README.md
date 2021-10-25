@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 💬 I am a Web Engineer that has experience working in a full stack and DevOps role, I mostly focus on Frontend roles.
 
-🌱 I’m a curently learning new frontend technologies as well as a mentor on 2 different platforms.
+🌱 I’m a curently learning advanced frontend concepts. I am also a mentor on 2 different platforms.
 
 🔭 I’m currently working on attaining Frontend mastery.
 
