@@ -25,11 +25,26 @@ Here are some ideas to get you started:
 
 ## Technologies
 
+*HTML5 | CSS3 | SASS | BEM | Bootstrap | Material-UI*
+
+*Javascript -- React-Redux | Node JS | Typescript | Vue | Angular*
+
+*Bundlers: Webpack | Grunt | Gulp*
+
+*Python -- Flask | Django DRF*
+
+*PHP -- Laravel | Wordpress*
+
+*CI/CD -- Circle CI | Travis CI*
+
+*Scrum | Docker | Kubernetes | Firebase | MKDOCs*
+
+<!-- 
 Fundamentals: <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bem" src="https://img.shields.io/badge/bem-%23CC342D.svg?&style=for-the-badge&logo=bem&logoColor=white"/> 
 
  Languages: <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  
 
-Frameworks: <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23CC0000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+Frameworks: <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23CC0000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 <!-- 
 Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> -->
 
