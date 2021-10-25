@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 <!-- ![Web Engineer]() -->
 
-## About Me 😄
 :wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly on the web, since am a curious mind, reading and learning are like living to me. I am unconventional too.
 
 🌱 I’m a cuurently learning new frontend technologies as well as a mentor on 2 different platforms.
