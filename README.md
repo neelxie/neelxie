@@ -65,7 +65,8 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
     <td align="center">Languages and Tools:</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=neelxie&show_icons=true&theme=dark" width=100% height=100%></td>
+    <td align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelxie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</td>
     <td align="center"><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </br> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </br> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" height="40" /> </br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="40" height="40"/> </br>
