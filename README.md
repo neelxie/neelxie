@@ -57,6 +57,7 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 ## :diamonds: Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neelxie&show_icons=true&theme=dracula)
+[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neelxie)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 <table align="center">
