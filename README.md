@@ -143,10 +143,10 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
  </table>
  
  
-## 📕 Blog:
+## 📕 Blog & Recent articles:
 
 - #### [Medium Blog](https://neelxie.medium.com/)
-- #### [Beyond the Dangerously SetInnerHTML]()(https://medium.com/cranecloud/beyond-the-dangerouslysetinnerhtml-58165fe9de12)
+- #### [Beyond the Dangerously SetInnerHTML](https://medium.com/cranecloud/beyond-the-dangerouslysetinnerhtml-58165fe9de12)
 - #### [CSS Modules](https://medium.com/cranecloud/using-css-modules-5b5ecab6ecc7)
 - #### [Using Axios](https://medium.com/cranecloud/how-i-am-using-axios-api-e4d16ab430db)
 - #### [CI/CD: A Crane Cloud Outlook](https://medium.com/cranecloud/ci-cd-a-cranecloud-outlook-72ba748a4ef7)
