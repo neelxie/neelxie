@@ -148,6 +148,7 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 ## 📕 Blog & Recent articles:
 
 - #### [Medium Blog](https://neelxie.medium.com/)
+- #### [Setup Testing with Jest and Enzyme](https://neelxie.medium.com/?p=c45c9691b471)
 - #### [Beyond the Dangerously SetInnerHTML](https://medium.com/cranecloud/beyond-the-dangerouslysetinnerhtml-58165fe9de12)
 - #### [CSS Modules](https://medium.com/cranecloud/using-css-modules-5b5ecab6ecc7)
 - #### [Using Axios](https://medium.com/cranecloud/how-i-am-using-axios-api-e4d16ab430db)
