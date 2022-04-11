@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 <!-- ![Web Engineer]() -->
 
-:wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly on the web, since am a curious mind, reading and learning are like living to me. I am unconventional too.
+:wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly on the web, since am a curious mind, reading and learning are like living to me. I am unconventional too. 
 
-💬 I am a Web Engineer that has experience working in a full stack and DevOps role, I mostly focus on Frontend roles.
+💬 I am a Web Engineer that has experience working in a full stack and DevOps role, I have spent the last years building accessible responsive user-facing UIs, APIs and documentation in the latest technologies.
 
 🌱 I’m a curently learning advanced frontend concepts. I am also a mentor on 2 different platforms.
 
