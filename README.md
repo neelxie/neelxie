@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelxie)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!-- ![Web Engineer]() -->
+<!-- ![Software Engineer]() -->
 
 :wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly on the web, since am a curious mind, reading and learning are like living to me. I am unconventional too. 
 
-💬 I am a Web Engineer that has experience working in a full stack and DevOps role, I have spent the last years building accessible responsive user-facing UIs, APIs and documentation in the latest technologies.
+💬 I am a Software Engineer that has experience working in a full stack and DevOps role, I have spent the last years building accessible responsive user-facing UIs, APIs and documentation in the latest technologies.
 
-🌱 I’m a curently learning advanced frontend concepts. I am also a mentor on 2 different platforms.
+🌱 I’m a curently on a web3 mastery. I am also a mentor on 2 different platforms.
 
 🔭 I’m currently working on attaining Frontend mastery.
 
@@ -40,6 +40,8 @@ _PHP -- Laravel | Wordpress_
 _CI/CD -- Circle CI | Travis CI_
 
 _Scrum | Docker | Kubernetes | Firebase | MKDOCs_
+
+_Web3 -- Solidity | Truffle | Web3JS | Chainlinks
 
 <!--
 Fundamentals: <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bem" src="https://img.shields.io/badge/bem-%23CC342D.svg?&style=for-the-badge&logo=bem&logoColor=white"/>
