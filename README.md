@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 💬 I am an ex-Andela Software Engineer that has experience working in a full stack and DevOps role, I have spent the last years building accessible responsive user-facing UIs, APIs and documentation in the latest technologies.
 
-🌱 I’m a curently on a web3 mastery. I am also a mentor on 2 different platforms.
+🌱 I am also a mentor on 2 different platforms. I am curious and interested in the solutions that blockchain can help us solve hence my interest in web3.
 
-🔭 I’m currently working on attaining Frontend mastery.
+🔭 I’m currently working on attaining mastery on a journey to Solutions Architect.
 
 ## Technologies
 
