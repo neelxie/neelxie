@@ -150,6 +150,11 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 ## 📕 Blog & Recent articles:
 
 - #### [Medium Blog](https://neelxie.medium.com/)
+- #### [Django Environment Variables](https://medium.com/cranecloud/django-environment-variables-52682f38a714)
+- #### [Docker build with Github Actions](https://medium.com/cranecloud/docker-build-with-github-actions-1203d8ba5bf0)
+- #### [Django, Docker and Github Actions](https://medium.com/cranecloud/django-docker-and-github-actions-e9383432066f)
+- #### [Migrate Heroku Database to Crane Cloud](https://medium.com/cranecloud/migrate-heroku-postgres-database-to-crane-cloud-3e26ae9cd907)
+- #### [Mak@100 State of cloud computing](https://medium.com/cranecloud/mak-100-state-of-cloud-computing-35bb9614d479)
 - #### [Setup Testing with Jest and Enzyme](https://neelxie.medium.com/?p=c45c9691b471)
 - #### [Beyond the Dangerously SetInnerHTML](https://medium.com/cranecloud/beyond-the-dangerouslysetinnerhtml-58165fe9de12)
 - #### [CSS Modules](https://medium.com/cranecloud/using-css-modules-5b5ecab6ecc7)
