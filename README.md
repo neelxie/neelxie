@@ -102,6 +102,7 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
  <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40"/> </br></td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/> </br></td>
  </tr>
  
  <tr>
