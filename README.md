@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 :wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly on the web, since am a curious mind, reading and learning are like living to me. I love unconventional things. 
 
-💬 I am an ex-Andela Software Engineer that has experience working in a full stack and DevOps role, I have spent the last years building accessible responsive user-facing UIs, APIs and documentation in the latest technologies. My expertise has been in medical research, cloud computing and machine learning, education fields.
+💬 Formerly an Andela engineer, I specialize in building accessible and responsive user-interfaces, APIs, and documentation using the latest technologies. My areas of expertise include medical research, cloud computing, and Logistics, as well as Academia/Education.
 
 🌱 I am also a mentor on 2 different platforms. I am curious and interested in the solutions that blockchain can help us solve hence my interest in web3.
 
-🔭 I’m currently working on attaining mastery on a journey to Solutions Architect.
+🔭 Working on attaining mastery.
 
 ## Technologies
 
