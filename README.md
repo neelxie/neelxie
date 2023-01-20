@@ -151,6 +151,7 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 ## 📕 Blog & Recent articles:
 
 - #### [Medium Blog](https://neelxie.medium.com/)
+- #### [Understanding CORS at the Frontend](https://neelxie.medium.com/understanding-cors-at-the-frontend-4255a718162f)
 - #### [Django Environment Variables](https://medium.com/cranecloud/django-environment-variables-52682f38a714)
 - #### [Docker build with Github Actions](https://medium.com/cranecloud/docker-build-with-github-actions-1203d8ba5bf0)
 - #### [Django, Docker and Github Actions](https://medium.com/cranecloud/django-docker-and-github-actions-e9383432066f)
