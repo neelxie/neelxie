@@ -152,6 +152,8 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 
 - #### [Medium Blog](https://neelxie.medium.com/)
 - #### [Communication Skills: Taking feedback](https://neelxie.medium.com/communication-skills-taking-feedback-a7be34e1677a)
+- #### [Dockerizing a Static HTML App](https://medium.com/cranecloud/dockerize-static-html-web-app-97998a6be6ce)
+- #### [JSON Upload and Download to Local Storage — Firebase](https://medium.com/cranecloud/json-upload-and-download-to-local-storage-firebase-967f60cc2aa9)
 - #### [Understanding CORS at the Frontend](https://neelxie.medium.com/understanding-cors-at-the-frontend-4255a718162f)
 - #### [Django Environment Variables](https://medium.com/cranecloud/django-environment-variables-52682f38a714)
 - #### [Docker build with Github Actions](https://medium.com/cranecloud/docker-build-with-github-actions-1203d8ba5bf0)
