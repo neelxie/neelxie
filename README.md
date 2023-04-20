@@ -151,6 +151,7 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 ## 📕 Blog & Recent articles:
 
 - #### [Medium Blog](https://neelxie.medium.com/)
+- #### [AI Enhancing Software Development](https://neelxie.medium.com/ai-enhancing-software-development-a6861f6fd100)
 - #### [Communication Skills: Taking feedback](https://neelxie.medium.com/communication-skills-taking-feedback-a7be34e1677a)
 - #### [Dockerizing a Static HTML App](https://medium.com/cranecloud/dockerize-static-html-web-app-97998a6be6ce)
 - #### [JSON Upload and Download to Local Storage — Firebase](https://medium.com/cranecloud/json-upload-and-download-to-local-storage-firebase-967f60cc2aa9)
