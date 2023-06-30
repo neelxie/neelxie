@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly on the web, since am a curious mind, reading and learning are like living to me. I love unconventional things. I write alot, rarely publish.
 
-💬 Formerly an Andela engineer, I specialize in building accessible and responsive user-interfaces, APIs, and documentation using the latest technologies. My areas of expertise include medical research, cloud computing, and Logistics, as well as Academia/Education.
+💬 With more than 5 years of experience, I specialize in building accessible and responsive user-interfaces, APIs, and documentation using the latest technologies. My areas of expertise include medical research, cloud computing, and Logistics, as well as Academia/Education.
 
 🌱 I am also a mentor on 2 different platforms. I am curious and interested in the solutions that web3 can solve.
 
