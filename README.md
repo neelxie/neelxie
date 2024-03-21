@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 <!-- ![Software Engineer]() -->
 
-:wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly on the web, since am a curious mind, reading and learning are like living to me. I love unconventional things. I write a lot, rarely publish.
+:wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly on the web, since am a curious mind, reading and learning are like living to me. I love unconventional things. I write a lot, but rarely publish.
 
-💬 With more than 6 years of experience, I specialize in building accessible and responsive user interfaces, APIs, and documentation using the latest technologies. My areas of expertise include medical research, Cloud Computing, Artificial Intelligence, Logistics, and Agriculture, as well as Academia/Education. I have worked as a DevOPS engineer for Crane Cloud.
+💬 With more than 6 years of experience, I specialize in building accessible and responsive user interfaces, APIs, and documentation using the latest technologies. My areas of expertise include medical research, Cloud Computing, Artificial Intelligence, Logistics, and Agriculture, as well as Academia/Education. I have worked as a DevOPS engineer and Frontend Lead.
 
 🌱 I am also a mentor on 2 different platforms.
 
