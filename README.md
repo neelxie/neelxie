@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly on the web, since am a curious mind, reading and learning are like living to me. I love unconventional things. I write a lot, but rarely publish.
 
-💬 With more than 6 years of experience, I specialize in building accessible and responsive user interfaces, APIs, and documentation using the latest technologies. My areas of expertise include medical research, Cloud Computing, Artificial Intelligence, Logistics, and Agriculture, as well as Academia/Education. I have worked as a DevOPS engineer and Frontend Lead.
+💬 With more than 6 years of experience, I specialize in building accessible and responsive user interfaces, APIs, and documentation using the latest technologies. My areas of expertise include medical research, Cloud Computing, Artificial Intelligence, Logistics, and Agriculture, as well as Academia/Education.
 
 🌱 I am also a mentor on 2 different platforms.
 
@@ -27,19 +27,20 @@ Here are some ideas to get you started:
 
 ## Technologies
 
+_Scrum | Docker | Kubernetes | Firebase | GCP | Portainer | VPS | Prometheus| MKDOCs_
+
 _HTML5 | CSS3 | SASS | BEM | Bootstrap | Material-UI_
 
 _Javascript -- React-Redux | Next Js | Node JS | Typescript | Vue | Angular_
 
 _Bundlers: Webpack | Grunt | Gulp_
 
-_Python -- Flask | Django DRF_
+_Python -- Flask | Django | FastAPI_
 
 _PHP -- Laravel | Wordpress_
 
-_CI/CD -- Circle CI | Travis CI_
+_CI/CD -- Circle CI | Github Actions| G/Cloud Build | Travis CI_ 
 
-_Scrum | Docker | Kubernetes | Firebase | MKDOCs_
 
 _Web3 -- Solidity | Hardhat | Web3JS | Chainlinks
 
