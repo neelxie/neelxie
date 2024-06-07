@@ -33,7 +33,7 @@ _HTML5 | CSS3 | SASS | BEM | Bootstrap | Material-UI_
 
 _Javascript -- React-Redux | Next Js | Node JS | Typescript | Vue | Angular_
 
-_Bundlers: Webpack | Grunt | Gulp_
+_Bundlers: Webpack | Grunt | Vite | Gulp_
 
 _Python -- Flask | Django | FastAPI_
 
