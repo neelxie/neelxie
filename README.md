@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 <!-- ![Software Engineer]() -->
 
-:wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly on the web, since am a curious mind, reading and learning are like living to me. I love unconventional things. I write a lot, but rarely publish.
+:wave: I am Derrick; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly systems, since am a curious mind, reading and learning are like living to me. I love unconventional things. I write a lot, but rarely publish.
 
-💬 With more than 6 years of experience, I specialize in building accessible and responsive user interfaces, APIs, and documentation using the latest technologies. My areas of expertise include medical research, Cloud Computing, Artificial Intelligence, Logistics, and Agriculture, as well as Academia/Education.
+💬 With more than 7 years of experience, I specialize in building accessible and responsive user interfaces, APIs, and scalable performant systems using the latest technologies. My areas of expertise include Medical research, Cloud Computing, Artificial Intelligence, Gaming, and Logistics, as well as Academia/Education.
 
 🌱 I am also a mentor on 2 different platforms.
 
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ## Technologies
 
-_Scrum | Docker | Kubernetes | Firebase | GCP | Portainer | VPS | Prometheus| MKDOCs_
+_Scrum | Linux| Bash| Docker | Kubernetes | Firebase | GCP | Portainer | Fhir | Postgresql | Mysql | Prometheus | Grafana| MKDOCs | Rust | Go_
 
-_HTML5 | CSS3 | SASS | BEM | Bootstrap | Material-UI_
+_HTML5 | CSS3 | SASS | Ant Design | Bootstrap | Material-UI | Design Systems_
 
-_Javascript -- React-Redux | Next Js | Node JS | Typescript | Vue | Angular_
+_Javascript -- React | Redux | Next Js | Node/Express | Typescript | Vue | Angular | Svelte | Nuxt JS_
 
 _Bundlers: Webpack | Grunt | Vite | Gulp_
 
@@ -40,7 +40,6 @@ _Python -- Flask | Django | FastAPI_
 _PHP -- Laravel | Wordpress_
 
 _CI/CD -- Circle CI | Github Actions| G/Cloud Build | Travis CI_ 
-
 
 _Web3 -- Solidity | Hardhat | Web3JS | Chainlinks
 
