@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 ## Technologies
 
-_Scrum | Linux| Bash| Docker | Kubernetes | Firebase | GCP | Portainer | Fhir | Postgresql | Mysql | Prometheus | Grafana| MKDOCs | Rust | Go_
+_Data: SQL | Excel | Power Query | Power Bi_
 
 _HTML5 | CSS3 | SASS | Ant Design | Bootstrap | Material-UI | Design Systems_
 
-_Javascript -- React | Redux | Next Js | Node/Express | Typescript | Vue | Angular | Svelte | Nuxt JS_
-
-_Bundlers: Webpack | Grunt | Vite | Gulp_
+_Javascript -- Typescript | React | Svelte | Next Js | Node/Express | Vue | Angular | Nuxt JS_
 
 _Python -- Flask | Django | FastAPI_
 
 _PHP -- Laravel | Wordpress_
 
 _CI/CD -- Circle CI | Github Actions| G/Cloud Build | Travis CI_ 
+
+_Other -- Scrum | Linux| Bash| Docker | Kubernetes | Firebase | GCP | Portainer | Fhir | Postgresql | Mysql | Prometheus | Grafana| MKDOCs | Rust | Go_
 
 _Web3 -- Solidity | Hardhat | Web3JS | Chainlinks
 
