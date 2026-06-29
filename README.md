@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <!-- ![Software Engineer]() -->
 
-:wave: I am Derrick a Product Engineer; curiosity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly systems, since am a curious mind, reading and learning are like living to me. I love unconventional things. I write a lot, but rarely publish.
+:wave: I am Derrick a Product Engineer; curiousity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly systems, since am a curious mind, reading and learning are like living to me. I love unconventional things. I write a lot, but rarely publish.
 
 💬 With more than 7+ years of experience building and shipping data-driven web and mobile products in health-tech, fintech, and enterprise systems.
 Focused on analytics, user engagement, scalable data pipelines, and AI-powered solutions. Strong background in frontend DevOps, cloud infrastructure, and delivering production-grade applications end-to-end.Passionate about creating insightful, high-impact products that solve real problems. Open to collaborations in analytics, data, and AI-driven platforms.
