@@ -65,7 +65,7 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 ## 📕 Blog & Recent articles:
 
 - #### [Medium Blog](https://neelxie.medium.com/)
-- #### [AI Enhancing Software Development](https://neelxie.medium.com/ai-enhancing-software-development-a6861f6fd100)
+<!-- - #### [AI Enhancing Software Development](https://neelxie.medium.com/ai-enhancing-software-development-a6861f6fd100) -->
 - #### [Communication Skills: Taking feedback](https://neelxie.medium.com/communication-skills-taking-feedback-a7be34e1677a)
 - #### [Dockerizing a Static HTML App](https://medium.com/cranecloud/dockerize-static-html-web-app-97998a6be6ce)
 - #### [JSON Upload and Download to Local Storage — Firebase](https://medium.com/cranecloud/json-upload-and-download-to-local-storage-firebase-967f60cc2aa9)
@@ -78,7 +78,7 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 - #### [Beyond the Dangerously SetInnerHTML](https://medium.com/cranecloud/beyond-the-dangerouslysetinnerhtml-58165fe9de12)
 - #### [CSS Modules](https://medium.com/cranecloud/using-css-modules-5b5ecab6ecc7)
 - #### [Using Axios](https://medium.com/cranecloud/how-i-am-using-axios-api-e4d16ab430db)
-- #### [Why Cloud Native Computing Matters to African Based Devs](https://medium.com/cranecloud/why-cloud-native-computing-matters-to-african-based-developers-2b9b23f3b25a)
+<!-- - #### [Why Cloud Native Computing Matters to African Based Devs](https://medium.com/cranecloud/why-cloud-native-computing-matters-to-african-based-developers-2b9b23f3b25a) -->
 
 ## Contact me 📫
 
