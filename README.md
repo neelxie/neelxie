@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :wave: I am Derrick a Product Engineer; curiousity has always been a precursor of my passion. I am fascinated at how things fit and work together mostly systems,  being a curious mind, reading and learning are like living to me. I love unconventional things. I write a lot, used to... until AI came through.
 
-💬 With more than 7+ years of experience building and shipping data-driven web and mobile products in health-tech, fintech, and enterprise systems.
+💬 With more than 8+ years of experience building and shipping data-driven web and mobile products in health-tech, fintech, and enterprise systems.
 Focused on analytics, user engagement, scalable data pipelines, and AI-powered solutions. Strong background in frontend DevOps, cloud infrastructure, and delivering production-grade applications end-to-end.Passionate about creating insightful, high-impact products that solve real problems. Open to collaborations in analytics, data, and AI-driven platforms.
 
 🌱 I am also a mentor on 2 different platforms.
